@@ -1,0 +1,6 @@
+@Cencora.DispoMaster_HostAddress = http://localhost:5137
+
+GET {{Cencora.DispoMaster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
